@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+#container1
+{
+  width: 1303px;
+
+ margin-left: auto;
+ margin-right: auto;
+
+}
+#logo
+{
+float: top;
+background-color: goldenrod;
+text-align: center;
+float: left;
+padding: 15px;
+}
+#logo1
+{
+float: top;
+background-color: goldenrod;
+text-align: center;
+float: left;
+padding: 15px;
+}
+#logo2
+{
+float: top;
+background-color: goldenrod;
+text-align: center;
+float: left;
+padding: 15px;
+}
+#footer
+{
+clear:both;
+background-color: chocolate;
+Text-align: center;
+padding: 15px;
+
+}
